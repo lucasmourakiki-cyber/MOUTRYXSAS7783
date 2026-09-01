@@ -1,0 +1,5 @@
+data/
+audit_results*.json
+*.log
+coverage/
+node_modules/
